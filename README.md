@@ -17,12 +17,26 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
     <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
 <br/>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Привет,+я+Ислам+👋;Frontend-разработчик+и+студент;Будущий+Fullstack+и+AI/ML+энтузиаст" alt="Титулка" />
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/Bogatyrev-Islam" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Bogatyrev-Islam&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/Bogatyrev-Islam?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/Bogatyrev-Islam?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
 </div>
