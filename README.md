@@ -1,7 +1,9 @@
-<!-- Шапка профиля -->
-<a href="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/undefined%20-%20Imgur.gif">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/undefined%20-%20Imgur.gif" alt="Undefined GIF" style="width:auto; height:auto"/>
-</a>
+<div align="center">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur.gif?raw=true" 
+       alt="My GIF" 
+       width="400" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
 
 <!-- Приветствие -->
 <h1 align="center">Salam Aleikum 🤝 Меня зовут Ислам</h1>
