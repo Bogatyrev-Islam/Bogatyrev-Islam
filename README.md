@@ -47,6 +47,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,vscode,webstorm,figma" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,npm,express,mongodb,nginx" /><br>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 <br/>
 
