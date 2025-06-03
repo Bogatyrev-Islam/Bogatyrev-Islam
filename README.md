@@ -30,7 +30,7 @@
 
 <!-- Лучшие репозитории-->
 <div align="center">
-  <h4>⭐️ Лучшие репозитории</h4>
+  <h3>⭐️ Лучшие репозитории</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="#">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
@@ -42,7 +42,7 @@
 
 
 <!-- Языки-->
-<h4 align="center">📚 Языки & Инструменты, которые я освоил(осваиваю)</h4>
+<h3 align="center">📚 Языки & Инструменты, которые я освоил(осваиваю)</h3>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,vscode,webstorm,figma" /><br>
@@ -60,7 +60,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=grey" alt="Undefined" />
   </div>
 </div>
 <br/>
@@ -70,7 +69,7 @@
 <!--Мои соц-сети-->
 <h4>
   <div align="left"> 
-  <h4>📱 Мои соц-сети :</h4>
+  <h3>📱 Мои соц-сети :</h3>
 <a href="https://t.me/bogatyrev_islam">
   <img width="60px" src="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" alt="Telegramm"/></a> 
 </div>
@@ -79,7 +78,7 @@
 
   
 <!-- Футер профиля -->
-<h4 align="center">Конец!</h4>
+<h3 align="center">Конец!</h3>
 <div align="center">
   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur%20(1).gif?raw=true" alt="My GIF" 
 </div>
