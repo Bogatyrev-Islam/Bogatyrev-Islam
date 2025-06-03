@@ -28,29 +28,6 @@
 
 
 
-<!--Мои соц-сети-->
-<h4>
-  <div align="left"> 
-  <h3>Мои соц-сети :</h3>
-<a href="https://t.me/bogatyrev_islam">
-  <img width="60px" src="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" alt="Telegramm"/></a> 
-</div>
-</h4>
-
-
-
-<!-- Языки-->
-<h3 align="center">👨‍💻 Языки & Инструменты, которые я освоил, изучаю </h3>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br>
-</div>
-<br/>
-
-
-
 <!-- Лучшие репозитории-->
 <div align="center">
   <h3>⭐️ Лучшие репозитории</h3>
@@ -61,6 +38,28 @@
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
 </div>
+
+
+
+<!-- Языки-->
+<h3 align="center">👨‍💻 Языки & Инструменты, которые я освоил, изучаю </h3>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,mysql,git,github,vscode" /><br>
+</div>
+<br/>
+
+
+
+<!--Мои соц-сети-->
+<h4>
+  <div align="left"> 
+  <h3>Мои соц-сети :</h3>
+<a href="https://t.me/bogatyrev_islam">
+  <img width="60px" src="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" alt="Telegramm"/></a> 
+</div>
+</h4>
 
 
 
