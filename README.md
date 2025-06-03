@@ -79,8 +79,9 @@
   </div>
 
 
-
+  
 <!-- Футер профиля -->
+<h3 align="center">Конец!</h3>
 <div align="center">
   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur%20(1).gif?raw=true" alt="My GIF" 
 </div>
