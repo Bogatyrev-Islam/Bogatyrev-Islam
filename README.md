@@ -78,3 +78,9 @@
   <div align="center"> 
   </div>
 
+
+
+<!-- Футер профиля -->
+<div align="center">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur%20(1).gif?raw=true" alt="My GIF" 
+</div>
