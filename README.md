@@ -45,8 +45,8 @@
 <h4 align="center">📚 Языки & Инструменты, которые я освоил(осваиваю)</h4>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,mysql,git,github,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,express,nginx,npm,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,webstorm" /><br>
 </div>
 <br/>
 
