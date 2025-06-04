@@ -69,7 +69,7 @@
 <!--Мои соц-сети-->
 <h4>
   <div align="left"> 
-  <h3>📱 Мои соц-сети :</h3>
+  <h3>🧲 Связь со мной :</h3>
 <a href="https://t.me/bogatyrev_islam">
   <img width="60px" src="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" alt="Telegramm"/></a> 
 </div>
