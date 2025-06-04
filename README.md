@@ -74,7 +74,7 @@
  <a href="#">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=5e81ac" alt="Пусто" /></a> 
+  <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
  <a href="#">
