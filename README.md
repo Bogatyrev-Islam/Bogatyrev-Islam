@@ -37,9 +37,6 @@
 </a>
 </div>
 
-<!--разделитель-->
-<div style="height: 1px; background-color: #f0f0f0; margin: 12px 0; opacity: 0.5;"></div>
-
 
 
 <!-- Лучшие репозитории-->
@@ -64,7 +61,11 @@
 </div>
 <br/>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/_-%23DDDDDD.svg?style=for-the-badge&logo=circle&logoColor=white" alt=" " />
+  <img src="https://img.shields.io/badge/+-%23AAAAAA.svg?style=for-the-badge&logo=plus&logoColor=white" alt="+" />
+  <img src="https://img.shields.io/badge/_-%23DDDDDD.svg?style=for-the-badge&logo=circle&logoColor=white" alt=" " />
+</div>
 
 <!--Мои соц-сети-->
 <h4>
