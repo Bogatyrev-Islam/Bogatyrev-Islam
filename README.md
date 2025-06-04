@@ -70,19 +70,9 @@
   <a href="#">
  <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> 
  <a href="#">
- <img width="60px" src="https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?t=st=1738852749~exp=1738856349~hmac=4a819d3016e1ded6349af017a9a4024ef05d2447930f91176723ebace7049e9b"/></a> 
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
  <a href="#">
-  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
- <a href="#">
-  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
- <a href="#">
-  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
-   <a href="#">
-  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
-   <a href="#">
-  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
-   <a href="#">
-  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
+  <img src="https://img.shields.io/badge/Пусто-%23CCCCCC.svg?style=for-the-badge&logo=octicons&logoColor=white" alt="Пусто" /></a> 
 </div>
 </h4>
 
