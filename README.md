@@ -37,7 +37,8 @@
 </a>
 </div>
 
-***
+<!--разделитель-->
+<div style="height: 1px; background-color: #e1e4e8; margin: 16px 0;"></div>
 
 <!-- Лучшие репозитории-->
 <div align="center">
