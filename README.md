@@ -1,6 +1,6 @@
 <!-- Шапка профиля -->
 <div align="center">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur.gif?raw=true" alt="My GIF" width="600px">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur.gif?raw=true" alt="My GIF">
 </div>
 
 
