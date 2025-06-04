@@ -38,7 +38,8 @@
 </div>
 
 <!--разделитель-->
-‧‧‧
+<span style="color: #ccc">・ ・ ・</span>
+
 
 <!-- Лучшие репозитории-->
 <div align="center">
