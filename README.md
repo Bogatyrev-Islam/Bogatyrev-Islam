@@ -38,9 +38,7 @@
 </div>
 
 <!--разделитель-->
-
-
-<div style="height: 0.5px; background-color: #e1e4e8; margin: 12px 0;"></div>
+<div style="height: 1px; background-color: #f0f0f0; margin: 12px 0; opacity: 0.5;"></div>
 
 
 
