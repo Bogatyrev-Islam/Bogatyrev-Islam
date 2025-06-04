@@ -76,7 +76,7 @@
  <a href="#">
   <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&color=0077FF&labelColor=0077FF" alt="VK" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
+  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&logoWidth=15&logoPadding=0" alt="VK" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
  <a href="#">
