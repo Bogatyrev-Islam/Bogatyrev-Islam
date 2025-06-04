@@ -38,7 +38,11 @@
 </div>
 
 <!--разделитель-->
-<span style="color: #ccc">・ ・ ・</span>
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='1'><rect width='100%' height='1' fill='%23e1e4e8'/></svg>" alt="divider">
+---
+***
+<div style="height: 1px; width: 100%; background: #ddd; margin: 16px 0;"></div>
+<hr style="height: 1px; background-color: #e1e4e8; border: none; margin: 16px 0;">
 
 
 <!-- Лучшие репозитории-->
