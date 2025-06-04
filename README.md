@@ -58,9 +58,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,vscode,figma" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,npm,express,mongodb,nginx" /><br>
-  <img src="https://img.shields.io/badge/+-%23AAAAAA.svg?style=for-the-badge&logo=plus&logoColor=white" alt="+" />
-  <img src="https://img.shields.io/badge/+-%23AAAAAA.svg?style=for-the-badge&logo=plus&logoColor=white" alt="+" />
-  <img src="https://img.shields.io/badge/+-%23AAAAAA.svg?style=for-the-badge&logo=plus&logoColor=white" alt="+" />
+  ![Empty](https://img.shields.io/badge/Добавить-%23EEEEEE.svg?style=for-the-badge&logo=plus&logoColor=777777)
 </div>
 <br/>
 
