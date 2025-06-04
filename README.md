@@ -62,14 +62,13 @@
 <br/>
 
 
- 
 
 
 <!--Мои соц-сети-->
 <h4>
   <div align="left"> 
   <h3>🧲 Связь со мной :</h3>
- <a href="#">
+ <a href="https://t.me/bogatyrev_islam">
   <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
