@@ -74,7 +74,7 @@
  <a href="#">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/VK-%23A0C3FF.svg?style=for-the-badge&logo=vk&logoColor=white&color=%23A0C3FF&labelColor=%23A0C3FF" alt="VK" /></a> 
+  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&color=0077FF&labelColor=0077FF" alt="VK" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
  <a href="#">
