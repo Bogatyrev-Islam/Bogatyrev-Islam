@@ -56,8 +56,8 @@
 <h3 align="center">📚 Языки & Инструменты, которые я освоил(осваиваю)</h3>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,vscode,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,pug,mongodb,nginx" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,javascript,html,css,vscode,github,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,pug,mongodb,nginx,git" /><br>
 </div>
 <br/>
 
