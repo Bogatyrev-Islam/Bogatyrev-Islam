@@ -78,7 +78,7 @@
  <a href="#">
   <img src="https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&logoWidth=15&logoPadding=0" alt="Pinterest" /></a> 
 </div>
 </h4>
 
