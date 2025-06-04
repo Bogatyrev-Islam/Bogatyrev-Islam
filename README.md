@@ -39,7 +39,7 @@
 
 <!--разделитель-->
 
-<div style="height: 1px; width: 100%; background: #ddd; margin: 16px 0;"></div>
+
 <hr style="height: 1px; background-color: #e1e4e8; border: none; margin: 16px 0;">
 
 
