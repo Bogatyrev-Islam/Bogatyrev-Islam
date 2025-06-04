@@ -21,7 +21,7 @@
 
 <h4 align="left">🌟Я учусь на веб-разработчика, активно осваиваю frontend (React, TypeScript), но уже смотрю в сторону fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой.</h4>
 
- <div align="center" style="border-bottom="1px solid gray">
+ <div align="center">
 <!-- Profile Views -->
 <a href="https://github.com/Bogatyrev-Islam" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=Bogatyrev-Islam&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
