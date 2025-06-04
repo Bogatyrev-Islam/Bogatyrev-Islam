@@ -76,7 +76,7 @@
  <a href="#">
   <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Пусто-%23EEEEEE.svg?style=for-the-badge&logo=simpleicons&logoColor=555" alt="Пусто" /></a> 
+  <img src="https://img.shields.io/badge/Пусто-%23E0E0E0.svg?style=for-the-badge&logo=file&logoColor=888888" alt="Пусто" /></a> 
 </div>
 </h4>
 
