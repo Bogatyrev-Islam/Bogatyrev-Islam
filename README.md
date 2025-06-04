@@ -83,6 +83,8 @@
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&logoWidth=15&logoPadding=0" alt="X" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=15&logoPadding=0" alt="GitHub" /></a> 
+ <a href="#">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&logoWidth=15&logoPadding=0" alt="Facebook" /></a> 
 </div>
 </h4>
 
