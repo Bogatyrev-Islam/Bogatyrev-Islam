@@ -1,3 +1,4 @@
+<!-- Шапка профиля -->
  <div align="center"><br>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -9,8 +10,6 @@
   </div><br>
 
 
-
-<!-- Шапка профиля -->
 <div align="center">
   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur.gif?raw=true" alt="My GIF">
 </div>
@@ -19,7 +18,7 @@
 
 <!-- Приветствие -->
 <h1 align="center">Salam Aleikum 🤝 Меня зовут Ислам</h1>
-
+![Animated Text](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello+World!;Welcome+to+my+profile!)
 <h4 align="left">🌟Я учусь на веб-разработчика, активно осваиваю frontend (React, TypeScript), но уже смотрю в сторону fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой.</h4>
 
  <div align="center">
