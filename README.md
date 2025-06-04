@@ -37,7 +37,7 @@
 </a>
 </div>
 
-
+[![Followers](https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github)](https://github.com/Bogatyrev-Islam?tab=followers)
 
 <!-- Лучшие репозитории-->
 <div align="center">
