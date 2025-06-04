@@ -68,7 +68,7 @@
   <div align="left"> 
   <h3>🧲 Связь со мной :</h3>
   <a href="#">
- <img width="60px" src="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" alt="Telegramm"/></a> 
+ <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> 
  <a href="#">
  <img width="60px" src="https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?t=st=1738852749~exp=1738856349~hmac=4a819d3016e1ded6349af017a9a4024ef05d2447930f91176723ebace7049e9b"/></a> 
  <a href="#">
