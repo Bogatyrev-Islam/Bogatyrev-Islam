@@ -77,6 +77,12 @@
   <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
  <a href="#">
   <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
+   <a href="#">
+  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
+   <a href="#">
+  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
+   <a href="#">
+  <img width="60px" src="https://forum.playbcm.net/uploads/monthly_2019_01/J_member_4531.png"/></a> 
 </div>
 </h4>
 
