@@ -31,13 +31,10 @@
   <img alt="Total Stars" title="Total stars on GitHub"
        src="https://img.shields.io/github/stars/Bogatyrev-Islam?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 <!-- Followers -->
-<a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
+[![Followers](https://img.shields.io/github/followers/Bogatyrev-Islam?cacheSeconds=3600&style=for-the-badge&label=Followers&color=5e81ac&logo=github)](https://github.com/Bogatyrev-Islam?tab=followers)
 </div>
 
-[![Followers](https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github)](https://github.com/Bogatyrev-Islam?tab=followers)
+
 
 <!-- Лучшие репозитории-->
 <div align="center">
