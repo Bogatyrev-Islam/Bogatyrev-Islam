@@ -14,7 +14,7 @@
 
 
 
-<div align="center" style="width: 100%; height: 300px; overflow: hidden;">
+<div align="center" style="width: 100%; height: 200px; overflow: hidden;">
   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/far_away.gif" alt="My GIF">
 </div>
 
