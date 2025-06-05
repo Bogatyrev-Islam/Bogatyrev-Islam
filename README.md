@@ -63,26 +63,27 @@
 
 
 
+
 <!--Мои соц-сети-->
 <h4>
-  <div align="left"> 
+  <div align="center"> 
   <h3>🧲 Связь со мной :</h3>
  <a href="https://t.me/bogatyrev_islam">
-  <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> 
+  <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
+  <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="Instagram" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=161b22" alt="YouTube" /></a>
  <a href="#">
-  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&logoWidth=15&logoPadding=0" alt="VK" /></a>  
+  <img src="https://img.shields.io/badge/VK-161b22?style=for-the-badge&logo=vk&logoColor=0077FF&labelColor=161b22" alt="VK" /></a>  
  <a href="#">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=15&logoPadding=0" alt="GitHub" /></a> 
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&logoWidth=15&logoPadding=0" alt="Facebook" /></a> 
+  <img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=161b22" alt="Facebook" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&logoWidth=15&logoPadding=0" alt="X" /></a> 
+  <img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=X&logoColor=white&labelColor=161b22" alt="X" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&logoWidth=15&logoPadding=0" alt="Pinterest" /></a> 
+  <img src="https://img.shields.io/badge/Pinterest-161b22?style=for-the-badge&logo=Pinterest&logoColor=E60023&labelColor=161b22" alt="Pinterest" /></a> 
 </div>
 </h4>
 
