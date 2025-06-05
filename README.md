@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/undefined%20-%20Imgur.gif?raw=true" alt="My GIF">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/far_away.gif" alt="My GIF">
 </div>
 
 
