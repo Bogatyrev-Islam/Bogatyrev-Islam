@@ -20,20 +20,20 @@
 
 <h4 align="left">🌟Я учусь на веб-разработчика, активно осваиваю frontend (React, TypeScript), но уже смотрю в сторону fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой.</h4>
 
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/Bogatyrev-Islam" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=Bogatyrev-Islam&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-<!-- Total Stars -->
-<a href="https://github.com/Bogatyrev-Islam?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/Bogatyrev-Islam?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-<!-- Followers -->
-<a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
+<div align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/Bogatyrev-Islam" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Bogatyrev-Islam&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" 
+         alt="Profile Views Badge" /></a>
+  <!-- Total Stars -->
+  <a href="https://github.com/Bogatyrev-Islam?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub"
+         src="https://img.shields.io/github/stars/Bogatyrev-Islam?style=for-the-badge&label=Stars&color=bf616a&logo=github&labelColor=161b22" /></a>
+  <!-- Followers -->
+  <a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub"
+         src="https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github&labelColor=161b22" />
+  </a>
 </div>
 
 
