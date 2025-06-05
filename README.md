@@ -63,17 +63,17 @@
 
 
 <!--Мои показители-->
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
-  <a href="https://github.com/Bogatyrev-Islam" style="display: inline-block; height: 195px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&show_icons=true&theme=radical" 
-         alt="GitHub Stats" 
-         style="height: 100%; width: auto; object-fit: contain;"/>
-  </a>
-  <a href="https://github.com/Bogatyrev-Islam" style="display: inline-block; height: 195px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&layout=compact&theme=radical" 
-         alt="Top Languages" 
-         style="height: 100%; width: auto; object-fit: contain;"/>
-  </a>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); max-width: 900px; margin: 0 auto; gap: 10px;">
+
+  <!-- GitHub Stats -->
+  <img src="https://metrics.lecoq.io/Bogatyrev-Islam?template=classic&base.indepth=false&config.timezone=Europe%2FMoscow" 
+       alt="GitHub Metrics"
+       style="width: 100%; max-width: 400px; height: auto;"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&layout=compact&theme=radical&hide_border=true" 
+       alt="Top Languages"
+       style="width: 100%; max-width: 400px; height: auto;"/>
 </div>
 
 
