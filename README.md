@@ -11,12 +11,11 @@
 
 
 
-
 <div align="center">
   <img 
     src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/far_away.gif" 
     alt="My GIF"
-    style="object-fit: cover; height: 200px; width: auto; object-position: top;">
+    style="width: 100%; clip-path: inset(0 0 30% 0);">
 </div>
 
 
