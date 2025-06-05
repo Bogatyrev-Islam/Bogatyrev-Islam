@@ -77,11 +77,7 @@
  <a href="#">
   <img src="https://img.shields.io/badge/VK-161b22?style=for-the-badge&logo=vk&logoColor=0077FF&labelColor=161b22" alt="VK" /></a>  
  <a href="#">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a> 
- <a href="#">
   <img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=161b22" alt="Facebook" /></a> 
- <a href="#">
-  <img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=X&logoColor=white&labelColor=161b22" alt="X" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Pinterest-161b22?style=for-the-badge&logo=Pinterest&logoColor=E60023&labelColor=161b22" alt="Pinterest" /></a> 
 </div>
