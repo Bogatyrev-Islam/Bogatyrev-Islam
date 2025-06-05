@@ -1,12 +1,12 @@
 <!-- Шапка профиля -->
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6&color=181717" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=181717" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=181717" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=181717" alt="CSS" />
-  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=181717" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=181717" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=181717" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161b22" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=161b22" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" />
+  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=161b22" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB" />
 </div>
 
 <div align="center" style="width:100%; height:300px; overflow:hidden;">
