@@ -63,18 +63,12 @@
 
 
 <!--Мои показители-->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); max-width: 900px; margin: 0 auto; gap: 10px;">
-
-  <!-- GitHub Stats -->
-  <img src="https://metrics.lecoq.io/Bogatyrev-Islam?template=classic&base.indepth=false&config.timezone=Europe%2FMoscow" 
-       alt="GitHub Metrics"
-       style="width: 100%; max-width: 400px; height: auto;"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&layout=compact&theme=radical&hide_border=true" 
-       alt="Top Languages"
-       style="width: 100%; max-width: 400px; height: auto;"/>
+<br>
+<div align="center">
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
+<br/><br/>
 
 
 
