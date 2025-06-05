@@ -21,9 +21,9 @@
 <h4 align="left">🌟Я учусь на веб-разработчика, активно осваиваю frontend (React, TypeScript), но уже смотрю в сторону fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой.</h4>
 
 <div align="center">
-  <!-- Profile Views -->
+  <!-- Profile Views (через shields.io) -->
   <a href="https://github.com/Bogatyrev-Islam" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Bogatyrev-Islam&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" 
+    <img src="https://img.shields.io/badge/Profile_views-0-5e81ac?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" 
          alt="Profile Views Badge" /></a>
   <!-- Total Stars -->
   <a href="https://github.com/Bogatyrev-Islam?tab=repositories&sort=stargazers" target="_blank">
