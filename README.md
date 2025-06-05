@@ -73,17 +73,17 @@
  <a href="#">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
  <a href="#">
-  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&logoWidth=15&logoPadding=0" alt="VK" /></a> 
+  <img src="https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
  <a href="#">
-  <img src="https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> 
- <a href="#">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&logoWidth=15&logoPadding=0" alt="Pinterest" /></a> 
- <a href="#">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&logoWidth=15&logoPadding=0" alt="X" /></a> 
+  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&logoWidth=15&logoPadding=0" alt="VK" /></a>  
  <a href="#">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=15&logoPadding=0" alt="GitHub" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&logoWidth=15&logoPadding=0" alt="Facebook" /></a> 
+ <a href="#">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&logoWidth=15&logoPadding=0" alt="X" /></a> 
+ <a href="#">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white&logoWidth=15&logoPadding=0" alt="Pinterest" /></a> 
 </div>
 </h4>
 
