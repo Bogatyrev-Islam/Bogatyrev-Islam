@@ -23,7 +23,7 @@
 <div align="center">
   <!-- Profile Views (через shields.io) -->
   <a href="https://github.com/Bogatyrev-Islam" target="_blank">
-    <img src="https://img.shields.io/badge/Profile_views-0-5e81ac?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" 
+    <img src="https://hits.sh/github.com/Bogatyrev-Islam.svg?style=for-the-badge&label=Profile+views&color=5e81ac&labelColor=161b22&logo=github" 
          alt="Profile Views Badge" /></a>
   <!-- Total Stars -->
   <a href="https://github.com/Bogatyrev-Islam?tab=repositories&sort=stargazers" target="_blank">
