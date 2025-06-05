@@ -13,15 +13,13 @@
 
 
 
-
-<div align="center" style="width: 100%; height: 200px; overflow: hidden;">
+<div align="center" style="width: 100%; height: 200px; overflow: hidden; border: 1px solid red;"> <!-- Для наглядности -->
   <img 
     src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/far_away.gif" 
     alt="My GIF"
-    style="width: 100%; height: 100%; object-fit: cover;"
+    style="width: 100%; height: 100%; object-fit: cover; display: block;"
   >
 </div>
-
 
 
 <!-- Приветствие -->
