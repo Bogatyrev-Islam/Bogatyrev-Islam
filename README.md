@@ -61,6 +61,10 @@
 <br/>
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&show_icons=true&theme=radical)](https://github.com/Bogatyrev-Islam) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&layout=compact&theme=radical)](https://github.com/Bogatyrev-Islam) 
+
+
+
 
 <!--Мои соц-сети-->
 <h4>
