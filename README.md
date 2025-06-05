@@ -45,8 +45,9 @@
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="#">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="#">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    <a href="https://github.com/Bogatyrev-Islam/web-dev-learning">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=web-dev-learning
+&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
 </div>
 
