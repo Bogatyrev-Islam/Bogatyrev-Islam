@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/far_away.gif" alt="My GIF">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/header-git.gif" alt="My GIF">
 </div>
 
 
