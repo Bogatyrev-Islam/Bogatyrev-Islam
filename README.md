@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=181717" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=181717" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=181717" alt="MongoDB" />
-</div><br>
-
-
+</div>
 
 <div align="center" style="width:100%; height:300px; overflow:hidden;">
   <img 
@@ -17,6 +15,7 @@
     alt="My GIF"
     style="width:100%; min-height:300px; margin-top:-50px;">
 </div>
+
 
 
 <!-- Приветствие -->
