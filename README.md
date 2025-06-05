@@ -9,11 +9,8 @@
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB" />
 </div>
 
-<div align="center" style="width:90%; height:300px; overflow:hidden;">
-  <img 
-    src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/far_away.gif" 
-    alt="My GIF"
-    style="width:100%; min-height:300px; margin-top:-50px;">
+<div align="center">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/far_away.gif" alt="My GIF">
 </div>
 
 
