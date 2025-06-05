@@ -42,8 +42,8 @@
 <!-- Лучшие репозитории-->
 <div align="center">
   <h3>⭐️ Лучшие репозитории</h3>
-<a href="https://github.com/Bogatyrev-Islam/web-dev-learning">
-  <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=web-dev-learning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+<a href="https://github.com/Bogatyrev-Islam/express-social-network">
+  <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=express-social-network&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
 </a>
    <a href="https://github.com/Bogatyrev-Islam/web-dev-learning">
   <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=web-dev-learning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
