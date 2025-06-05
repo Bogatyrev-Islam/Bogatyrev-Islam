@@ -61,8 +61,20 @@
 <br/>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&show_icons=true&theme=radical)](https://github.com/Bogatyrev-Islam) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&layout=compact&theme=radical)](https://github.com/Bogatyrev-Islam) 
 
+<!--Мои показители-->
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
+  <a href="https://github.com/Bogatyrev-Islam" style="display: inline-block; height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&show_icons=true&theme=radical" 
+         alt="GitHub Stats" 
+         style="height: 100%; width: auto; object-fit: contain;"/>
+  </a>
+  <a href="https://github.com/Bogatyrev-Islam" style="display: inline-block; height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&layout=compact&theme=radical" 
+         alt="Top Languages" 
+         style="height: 100%; width: auto; object-fit: contain;"/>
+  </a>
+</div>
 
 
 
