@@ -1,13 +1,17 @@
 <!-- Шапка профиля -->
- <div align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </div><br>
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6&color=181717" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=181717" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=181717" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=181717" alt="CSS" />
+  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=181717" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=181717" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=181717" alt="MongoDB" />
+</div><br>
+
+
+
+
 
 
 <div align="center">
