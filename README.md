@@ -62,8 +62,6 @@
 
 
 
-
-
 <!--Мои соц-сети-->
 <h4>
   <div align="center"> 
@@ -82,10 +80,3 @@
   <img src="https://img.shields.io/badge/Pinterest-161b22?style=for-the-badge&logo=Pinterest&logoColor=E60023&labelColor=161b22" alt="Pinterest" /></a> 
 </div>
 </h4>
-
-
-  
-<!-- Футер профиля -->
-<div align="center">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/undefined%20-%20Imgur%20(2).gif?raw=true" alt="My GIF" >
-</div>
