@@ -56,7 +56,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,vscode,github,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,pug,mongodb,nginx,powershell,git"/>![Socket.IO](https://socket.io/images/logo.svg)<br>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,pug,mongodb,nginx,powershell,git"/><br>
 </div>
 <br/>
 
