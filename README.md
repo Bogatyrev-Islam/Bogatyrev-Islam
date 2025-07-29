@@ -18,29 +18,28 @@
 <!-- Приветствие -->
 <h1 align="center">Привет 🙋‍♂️ Меня зовут Ислам</h1>
 
-<h4 align="left">🌟Я учусь на веб-разработчика, активно осваиваю frontend (React, TypeScript), но уже смотрю в сторону fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой.</h4>
+<h4 align="left">🌟Начинающий веб-разработчик, активно осваиваю напровление frontend (React, TypeScript). Планирую углубляться fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой</h4>
 
 <div align="center">
-  <!-- Profile Views (через shields.io) -->
-  <a href="https://github.com/Bogatyrev-Islam" target="_blank">
-    <img src="https://hits.sh/github.com/Bogatyrev-Islam.svg?style=for-the-badge&label=Profile+views&color=5e81ac&labelColor=161b22&logo=github" 
-         alt="Profile Views Badge" /></a>
+  <!-- Followers -->
+  <a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub"
+         src="https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github&labelColor=161b22" /></a>
   <!-- Total Stars -->
   <a href="https://github.com/Bogatyrev-Islam?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Total Stars" title="Total stars on GitHub"
          src="https://img.shields.io/github/stars/Bogatyrev-Islam?style=for-the-badge&label=Stars&color=bf616a&logo=github&labelColor=161b22" /></a>
-  <!-- Followers -->
-  <a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub"
-         src="https://img.shields.io/github/followers/Bogatyrev-Islam?style=for-the-badge&label=Followers&color=5e81ac&logo=github&labelColor=161b22" />
-  </a>
+  <!-- Profile Views (через shields.io) -->
+  <a href="https://github.com/Bogatyrev-Islam" target="_blank">
+    <img src="https://hits.sh/github.com/Bogatyrev-Islam.svg?style=for-the-badge&label=Profile+views&color=5e81ac&labelColor=161b22&logo=github" 
+         alt="Profile Views Badge" /></a>
 </div>
 
 
 
 <!-- Лучшие репозитории-->
 <div align="center">
-  <h3>⭐️ Лучшие репозитории</h3>
+  <h3>⭐️ Лучшие проекты</h3>
 <a href="https://github.com/Bogatyrev-Islam/express-social-network">
   <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=express-social-network&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
 </a>
@@ -63,6 +62,7 @@
 
 
 <!--Мои показители-->
+<h3 align="center">Мои показатели</h3>
 <br>
 <div align="center">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
@@ -74,7 +74,7 @@
 <!--Мои соц-сети-->
 <h4>
   <div align="center"> 
-  <h3>🧲 Связь со мной :</h3>
+  <h3>Мои социальные сети. Связь со мной</h3>
  <a href="https://t.me/bogatyrev_islam">
   <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram" /></a> 
  <a href="#">
