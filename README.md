@@ -19,8 +19,8 @@
 <!-- Приветствие -->
 <h1 align="center">Frontend Developer (Junior)</h1>
 
-<h4 align="center">Начинающий веб-разработчик, активно осваиваю напровление frontend (React, TypeScript). Планирую идти на fullstack.</h4>
-<h4 align="center">Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой</h4>
+<h4 align="center"; style="margin: 0;">Начинающий веб-разработчик, активно осваиваю напровление frontend (React, TypeScript). Планирую идти на fullstack.</h4>
+<h4 align="center"; style="margin: 0;">Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой</h4>
 
 <div align="center">
   <!-- Followers -->
