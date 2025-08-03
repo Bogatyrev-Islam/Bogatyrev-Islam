@@ -4,9 +4,10 @@
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=161b22" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" />
-  <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js" />
+<!--   только осваиваю -->
+<!--   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=161b22" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB" /> -->
 </div>
 
 <div align="center">
@@ -16,9 +17,10 @@
 
 
 <!-- Приветствие -->
-<h1 align="center">Привет 🙋‍♂️ Меня зовут Ислам</h1>
+<h1 align="center">Frontend Developer (Junior)</h1>
 
-<h4 align="left">🌟Начинающий веб-разработчик, активно осваиваю напровление frontend (React, TypeScript). Планирую углубляться fullstack. Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой</h4>
+<h4 align="center">Начинающий веб-разработчик, активно осваиваю напровление frontend (React, TypeScript). Планирую идти на fullstack.</h4>
+<h4 align="center">Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой</h4>
 
 <div align="center">
   <!-- Followers -->
