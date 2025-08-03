@@ -51,10 +51,12 @@
 
 
 
+
 <!--Мои показители-->
 <!--<h3 align="center">Мои показатели</h3>-->
 <br>
 <div align="center">
+  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/GitHub-logo.gif" alt="My GIF">
 <!--   <img width="435" src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/> -->
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
