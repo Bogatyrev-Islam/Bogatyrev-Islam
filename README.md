@@ -4,12 +4,12 @@
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=161b22" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" /> -->
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" alt="TypeScript" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML" height="30" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS" height="30" />
-</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<i class="devicon-typescript-plain colored" style="font-size: 30px;"></i>
+<i class="devicon-javascript-plain colored" style="font-size: 30px;"></i>
+<i class="devicon-html5-plain colored" style="font-size: 30px;"></i>
+<i class="devicon-css3-plain colored" style="font-size: 30px;"></i>
 
 
 <!--   только осваиваю -->
