@@ -1,20 +1,3 @@
-<!-- Шапка профиля -->
-<div align="center">
-<!--   <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161b22" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=161b22" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" /> -->
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css" />
-</p>
-
-<!--   только осваиваю -->
-<!--   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=161b22" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB" /> -->
-</div>
-
 <div align="center">
   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/header-git.gif" alt="My GIF">
 </div>
