@@ -45,8 +45,7 @@
 <h3 align="center">📚 Языки & Технологии & Инструменты, которые я активно осваиваю</h3>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,vscode,github,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,mongodb,git"/><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,vscode,github,figma,nodejs,npm,express,mongodb,git" /><br>
 </div>
 <br/>
 
