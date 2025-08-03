@@ -40,6 +40,7 @@
 
 
 <!-- Лучшие репозитории-->
+<!--
 <div align="center">
   <h3>⭐️ Лучшие проекты</h3>
 <a href="https://github.com/Bogatyrev-Islam/express-social-network">
@@ -49,15 +50,15 @@
   <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=web-dev-learning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
 </a>
 </div>
-
+-->
 
 
 <!-- Языки-->
-<h3 align="center">📚 Языки & Инструменты, которые я освоил(осваиваю)</h3>
+<h3 align="center">📚 Языки & Технологии & Инструменты, которые я активно осваиваю</h3>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,vscode,github,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,pug,mongodb,nginx,powershell,git"/><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,mongodb,git"/><br>
 </div>
 <br/>
 
@@ -81,12 +82,6 @@
   <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="Instagram" /></a> 
- <a href="#">
-  <img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=161b22" alt="YouTube" /></a>
- <a href="#">
-  <img src="https://img.shields.io/badge/VK-161b22?style=for-the-badge&logo=vk&logoColor=0077FF&labelColor=161b22" alt="VK" /></a>  
- <a href="#">
-  <img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=161b22" alt="Facebook" /></a> 
  <a href="#">
   <img src="https://img.shields.io/badge/Pinterest-161b22?style=for-the-badge&logo=Pinterest&logoColor=E60023&labelColor=161b22" alt="Pinterest" /></a> 
 </div>
