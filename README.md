@@ -5,13 +5,9 @@
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=161b22" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" /> -->
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" alt="TypeScript" height="30" style="filter: invert(27%) sepia(86%) saturate(624%) hue-rotate(179deg) brightness(95%) contrast(95%);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" height="30" style="filter: invert(84%) sepia(89%) saturate(507%) hue-rotate(1deg) brightness(105%) contrast(96%);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML" height="30" style="filter: invert(47%) sepia(94%) saturate(654%) hue-rotate(352deg) brightness(101%) contrast(96%);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS" height="30" style="filter: invert(40%) sepia(86%) saturate(488%) hue-rotate(174deg) brightness(95%) contrast(94%);" />
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css" />
+</p>
 
 <!--   только осваиваю -->
 <!--   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js" />
