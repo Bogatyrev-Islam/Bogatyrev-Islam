@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,vscode,github,figma,nodejs,npm,express,mongodb,git" /><br>
+</div>
+<div align="center">
   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/header-git.gif" alt="My GIF">
 </div>
 
