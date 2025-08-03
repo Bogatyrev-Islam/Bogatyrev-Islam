@@ -3,7 +3,9 @@
   <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161b22" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26&color=161b22" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" />
+<!--   <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22" alt="CSS" /> -->
+  ![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=1572B6&color=161b22)
+
 <!--   только осваиваю -->
 <!--   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&color=161b22" alt="Express" />
@@ -65,7 +67,7 @@
 
 
 <!--Мои показители-->
-<h3 align="center">Мои показатели</h3>
+<!--<h3 align="center">Мои показатели</h3>-->
 <br>
 <div align="center">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
