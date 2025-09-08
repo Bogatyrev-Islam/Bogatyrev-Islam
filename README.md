@@ -1,17 +1,3 @@
-```
-# ================ [ PROFILE HEADER ] ================  
-name = "Bogatyrev Islam"  
-role = "Frontend Developer"  
-current_os = "Windows"  
-```
-
-
-<!-- Приветствие -->
-<h1 align="center">Frontend Developer (Junior, пока что...)</h1>
-
-<h4 align="center"; style="margin: 0;">Начинающий веб-разработчик, активно осваиваю напровление frontend (React, TypeScript). Планирую идти на fullstack.</h4>
-<h4 align="center"; style="margin: 0;">Моя цель - создавать удобные веб-приложения, сочетающие красивый интерфейс с мощной логикой</h4>
-
 <div align="center">
   <!-- Followers -->
   <a href="https://github.com/Bogatyrev-Islam?tab=followers" target="_blank">
@@ -27,22 +13,6 @@ current_os = "Windows"
          alt="Profile Views Badge" /></a>
 </div>
 
-
-
-<!-- Лучшие репозитории-->
-<!--
-<div align="center">
-  <h3>⭐️ Лучшие проекты</h3>
-<a href="https://github.com/Bogatyrev-Islam/express-social-network">
-  <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=express-social-network&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-</a>
-   <a href="https://github.com/Bogatyrev-Islam/web-dev-learning">
-  <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Bogatyrev-Islam&repo=web-dev-learning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-</a>
-</div>
--->
-
-
 <!-- Языки-->
 <h3 align="center">📚 Языки & Технологии & Инструменты, которые я активно осваиваю</h3>
 <br/>
@@ -50,21 +20,6 @@ current_os = "Windows"
   <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,vscode,github,figma,nodejs,npm,express,mongodb,git" /><br>
 </div>
 <br/>
-
-
-
-
-<!--Мои показители-->
-<!--<h3 align="center">Мои показатели</h3>-->
-<br>
-<div align="center">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/GitHub-logo.gif" alt="My GIF">
-<!--   <img width="435" src="https://github-readme-stats.vercel.app/api?username=Bogatyrev-Islam&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/> -->
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogatyrev-Islam&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/GitHub-logo.gif" alt="My GIF">
-</div>
-
-
 
 <!--Мои соц-сети-->
 <h4>
