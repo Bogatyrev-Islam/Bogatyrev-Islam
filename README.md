@@ -1,34 +1,8 @@
-<div align="center">
-  <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/header-git.gif" alt="My GIF">
-</div>
-
-```Python
+```
 # ================ [ PROFILE HEADER ] ================  
-name = "Uveis Dzaurov"  
-role = "FullStack Developer"  
-current_os = "Windows / WSl"  
-
-def bio():  
-    return "Пишу код, исправляю баги, пью кофе."  
-
-# ================ [ TECH STACK ] ================  
-stack = {  
-    "Languages": ["Python", "JavaScripts"],  
-    "Tools": ["WSL", "Notion", "Git"],  
-}  
-
-# ================ [ CONTACT ] ================  
-contacts = {  
-    "Email": "uveis@yandex.ru",  
-    "DTF": "dtf.ru/id526376",  
-    "GitHub": "https://github.com/LordVays",  
-    "VK": "https://vk.com/heidingi",  
-    "Habr": "https://habr.com/ru/users/LordVays/",  
-    "Discord": "lorddz505", 
-    "Instagram": "https://www.instagram.com/lord_vays/profilecard/?igsh=bnFreHZibXZldjdv",  
-    "X": "https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09",
-    "Telegram": "https://t.me/pochhitaa"
-}  
+name = "Bogatyrev Islam"  
+role = "Frontend Developer"  
+current_os = "Windows"  
 ```
 
 
