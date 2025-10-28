@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vercel,nodejs,npm,express,mongodb,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vercel,nodejs,npm,express,mongodb,git,github,figma" /> -->
   <br>
   <table style="border: 1px solid transparent; border-collapse: collapse;">
     <tr>
