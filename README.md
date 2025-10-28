@@ -1,7 +1,7 @@
-<div align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git" />
+<div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vercel,nodejs,npm,express,mongodb,git,github,figma" /> -->
   <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git" />
   <table style="border: 1px solid transparent; border-collapse: collapse;">
     <tr>
       <td width="60%" align="left" style="border: 1px solid transparent;">
