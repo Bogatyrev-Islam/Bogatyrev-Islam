@@ -7,7 +7,7 @@
         <h2>Начинающий фронтенд-разработчик. Создаю красивые, интуитивно понятные и адаптивные сайты на TS + React.</h2>
       </td>
       <td width="40%" align="center" style="border: 1px solid transparent;">
-        <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/гиф%20анимация.gif" alt="Анимация проекта" width="300"/>
+        <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/гиф%20анимация.gif" alt="Анимация проекта" width="400"/>
       </td>
     </tr>
   </table>
