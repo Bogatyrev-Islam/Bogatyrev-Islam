@@ -1,4 +1,4 @@
-<div align="center">
+<div align="end">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git" />
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vercel,nodejs,npm,express,mongodb,git,github,figma" /> -->
   <br>
