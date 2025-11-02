@@ -1,9 +1,9 @@
 <div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vercel,nodejs,npm,express,mongodb,git,github,figma" /> -->
-  <table style="border: 1px solid transparent; border-collapse: collapse;">
+  <table style="border-radius: 30px;">
     <tr>
       <td width="40%" align="left" style="border: 1px solid transparent;">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git"/>
+        <img style="border-radius: 30px;" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git"/>
         <h2>Frontend Developer Junior (React + TS)</h1>
         <p>Начинающий фронтенд-разработчик, специализируюсь на создании адаптивных и интуитивных пользовательских интерфейсов. Владею JavaScript, SCSS, TypeScript и React, обеспечиваю кроссбраузерную совместимость и оптимальную производительность веб-решений. Ответственно подхожу к реализации проектов от вёрстки до интеграции, соблюдая принципы чистого кода и веб-доступности.</p>
       </td>
