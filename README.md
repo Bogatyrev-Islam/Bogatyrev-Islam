@@ -4,8 +4,8 @@
     <tr>
       <td width="40%" align="left" style="border: 1px solid transparent;">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vercel,nodejs,npm,git"/>
-        <h2>FRONTEND DEVELOPER JUNIOR (REACT + TS)</h1>
-        <h4>Начинающий фронтенд-разработчик, специализируюсь на создании адаптивных и интуитивных пользовательских интерфейсов. Владею JavaScript, SCSS, TypeScript и React, обеспечиваю кроссбраузерную совместимость и оптимальную производительность веб-решений. Ответственно подхожу к реализации проектов от вёрстки до интеграции, соблюдая принципы чистого кода и веб-доступности.</h3>
+        <h2>Frontend Developer Junior (React + TS)</h1>
+        <p>Начинающий фронтенд-разработчик, специализируюсь на создании адаптивных и интуитивных пользовательских интерфейсов. Владею JavaScript, SCSS, TypeScript и React, обеспечиваю кроссбраузерную совместимость и оптимальную производительность веб-решений. Ответственно подхожу к реализации проектов от вёрстки до интеграции, соблюдая принципы чистого кода и веб-доступности.</p>
       </td>
       <td width="60%" align="center" style="border: 1px solid transparent;">
         <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/raw/main/гиф%20анимация.gif" alt="Анимация проекта" width="100%"/>
