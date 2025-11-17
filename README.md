@@ -1,4 +1,5 @@
 <div align="center">
+   <img src="https://github.com/Bogatyrev-Islam/Bogatyrev-Islam/blob/main/backround.jpg" width="100%"/>
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vercel,nodejs,npm,express,mongodb,git,github,figma" /> -->
   <table>
     <tr>
